@@ -88,6 +88,7 @@ document.getElementById("myForm").addEventListener("submit", function(event) {
         <p style="color:red; font-weight:bold;">
             恭喜你被社交工程詐騙了，下次要注意，不要被騙個資了，就算是朋友也不可以輕易相信！！！<br><br>
             P.S.社交工程詐騙利用心理操控誘使受害者洩露個資或密碼，常透過電話、訊息或網路假冒信任對象，目的是盜取金錢或敏感資料<br><br>
+            還有不要透漏這裡面的內容，不然我的專題表單會沒人填<br><br>
             雖然被我社交工程詐騙了，但是請幫我填一下表單：
         </p>
         <p>
